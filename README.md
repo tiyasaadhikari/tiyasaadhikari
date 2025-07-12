@@ -1,4 +1,4 @@
-# Hi there, I'm Tiyasa Adhikary! 👋
+# Hi there, I'm Tiyasa Adhikari! 👋
 
 🎓 Pursuing 4-Year BCA (Hons) under NEP 2020 at Adamas University  
 💻 Passionate about Python, DSA & Web Development  
