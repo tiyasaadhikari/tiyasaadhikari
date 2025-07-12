@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Tiyasa Adhikary! 👋
 
-<!--
-**tiyasaadhikari/tiyasaadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing 4-Year BCA (Hons) under NEP 2020 at Adamas University  
+💻 Passionate about Python, DSA & Web Development  
+🚀 Dream: To crack Google with skills, projects & confidence  
+🌱 Currently working on beginner-friendly real-world projects  
+🤝 Let’s connect: [LinkedIn](https://www.linkedin.com/in/tiyasa-adhikari-580b67371)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- 👩‍💻 Python | C (basic)
+- 🌐 HTML & CSS (learning phase)
+- 🔧 Git & GitHub for version control
+- 📝 Code editors: VS Code, Replit
+
+---
+
+### 📈 GitHub Stats
+
+![Tiyasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiyasaadhikari&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Fun Fact
+
+> I may be a BCA student today, but my ambition is BIGGER than my degree.  
+> Skills, confidence & consistency — I'm coding my way to Google! 🚀
